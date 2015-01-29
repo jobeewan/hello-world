@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Just trying to learn new coding stuff. 
+Go vols!
